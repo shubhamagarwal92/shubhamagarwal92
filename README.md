@@ -28,6 +28,6 @@ If you would like to discuss things, feel free to reach out. You can also follow
 
 <br /><br />
 
-**Languages and Tools**  
+**What do I need?**  
 
-<code><img height="28" src="https://raw.githubusercontent.com/python/cpython/master/PC/icons/logox128.png"></code> &nbsp;<code><img height="21" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code>&nbsp;&nbsp;</code>&nbsp;&nbsp;<code><img height="28" src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/459acf4446fc58f58d556cdac833d28b823e1125/assets/nav_logo.svg"></code>&nbsp;&nbsp;<code><img height="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/python/cpython/master/PC/icons/logox128.png"></code> &nbsp;<code><img height="21" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code>&nbsp;&nbsp;</code>&nbsp;&nbsp;<code><img height="28" src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/459acf4446fc58f58d556cdac833d28b823e1125/assets/nav_logo.svg"></code>&nbsp;&nbsp;<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;&nbsp;<code><img height="43" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;
