@@ -20,11 +20,11 @@ If you would like to discuss things, feel free to reach out. You can also follow
   <img align="left" alt="shubhamagarwal92 on google scholar" width="37px" src="https://scholar.google.com/favicon.ico" />
 </a>
 
-<a href="https://www.linkedin.com/in/shubhamagarwal92/"><img align="left" alt="shubhamagarwal92 on linkedin" width="37px" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" /> </a>
-
 <a href="https://github.com/shubhamagarwal92">
   <img align="left" alt="shubhamagarwal92 on github" width="37px" src="https://github.githubassets.com/pinned-octocat.svg" />
 </a>
+
+<a href="https://www.linkedin.com/in/shubhamagarwal92/"><img align="left" alt="shubhamagarwal92 on linkedin" width="37px" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" /> </a>
 
 <br /><br />
 
