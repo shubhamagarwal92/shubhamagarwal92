@@ -1,6 +1,6 @@
 # Hello world! :computer:
 
-I am Shubham, rather his Github page :robot:. I don't know how you landed here ¯\\\_(ツ)\_/¯ but nice to e-meet you :trollface:.
+I am Shubham, rather his Github page :robot: :sunglasses:. I don't know how you landed here ¯\\\_(ツ)\_/¯ :monocle_face: but nice to e-meet you :trollface: :nerd_face:.
 
 I am passionate about cool research :fire: :bulb: :microscope:. To know more about my recent work, please head to my [homepage](https://shubhamagarwal92.github.io/) :mag_right: :briefcase:.
 
@@ -35,3 +35,10 @@ If you would like to discuss things, feel free to reach out. You can also follow
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shubhamagarwal92&show_icons=true&hide_border=true&hide=contribs&theme=dark)
 
+<p align="center">
+  <img src="https://git-stars.com/share/embed/shubhamagarwal92.svg">
+</p>
+  
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shubhamagarwal92.shubhamagarwal92" alt="visitor badge"/>
+</p>
