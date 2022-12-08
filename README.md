@@ -35,6 +35,9 @@ If you would like to discuss things, feel free to reach out. You can also follow
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shubhamagarwal92&show_icons=true&hide_border=true&hide=contribs&theme=dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamagarwal92&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+
+
 <p align="left">
   <img src="https://git-stars.com/share/embed/shubhamagarwal92.svg">
 </p>
